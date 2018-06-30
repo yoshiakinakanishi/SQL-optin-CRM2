@@ -1,4 +1,4 @@
-
+-- 修正後（openIDで表示する） //
 WITH
  data_open_id AS
  (
